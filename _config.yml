@@ -1,0 +1,28 @@
+name: Alain Guillemain
+favicon: null
+layout_spectrum: 0.728475762763992
+typography_spectrum: 0.4752500697504729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6872055984567851
+  lightness: 0.25342385401017964
+  saturation: 0.31503614713437855
+  rhythmicContrast: 0.1139750462025404
+purpose: []
